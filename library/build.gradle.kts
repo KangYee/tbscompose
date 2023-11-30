@@ -55,7 +55,7 @@ dependencies {
 }
 
 mavenPublishing {
-    coordinates("io.github.kangyee", "tbscompose", "1.0.0")
+    coordinates("io.github.kangyee", "tbscompose", "1.0.1")
 
     pom {
         name.set("TbsCompose")
