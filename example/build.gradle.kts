@@ -53,8 +53,6 @@ android {
 dependencies {
     implementation(project(":library"))
 
-    implementation(libs.tbs)
-
     implementation(libs.core.ktx)
     implementation(libs.lifecycle.runtime.ktx)
     implementation(libs.activity.compose)

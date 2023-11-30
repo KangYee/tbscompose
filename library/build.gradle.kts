@@ -41,7 +41,7 @@ android {
 }
 
 dependencies {
-    implementation(libs.tbs)
+    api(libs.tbs)
 
     implementation(libs.core.ktx)
     implementation(libs.appcompat)
