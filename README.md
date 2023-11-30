@@ -1,6 +1,6 @@
 # TbsCompose
 
-![\$latestVersion](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1c6d5326ecc049e399180bd2d10acdc8~tplv-k3u1fbpfcp-image.image#?w=150\&h=20\&s=1172\&e=svg\&b=565656)
+![$latestVersion](https://maven-badges.herokuapp.com/maven-central/io.github.kangyee/tbscompose/badge.svg)
 
 TBS（腾讯浏览服务）的 Jetpack Compose 封装。无可用 X5 内核时自动切换为系统 WebView。
 
